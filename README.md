@@ -38,6 +38,8 @@ The defaul configuration location is hard coded in the script to
 
 ### Running via CRON
 
+[ ] try
+
 Example:
 ```
 30 22  * * * root /path/to/set-st-bw.py -x remotehost -r 2000 -s 2000

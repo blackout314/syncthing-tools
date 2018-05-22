@@ -38,7 +38,7 @@ The defaul configuration location is hard coded in the script to
 
 ### Running via CRON
 
-[_] try
+[] try
 
 Example:
 ```
